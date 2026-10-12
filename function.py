@@ -1,10 +1,10 @@
-# def calculate_total(price, quanlity):
-#     total = price * quanlity
-#     print("line", total)
+def calculate_total(price, quanlity):
+    total = price * quanlity
+    print("line", total)
 
 
-# calculate_total(20, 2)
-# calculate_total(30,3)
+calculate_total(20, 2)
+calculate_total(30,3)
 
 
 def fine(late, book_typr="standard",primiun=False):
